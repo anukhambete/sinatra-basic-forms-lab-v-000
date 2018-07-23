@@ -1,3 +1,3 @@
-Class Puppy
+class Puppy
 
 end
